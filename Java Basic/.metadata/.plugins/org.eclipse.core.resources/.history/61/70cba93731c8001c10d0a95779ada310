@@ -1,0 +1,11 @@
+package SeleniumAssignment;
+
+public class FirefoxAssignment {
+
+	public static void main(String[] args) {
+		String driverpath=System.getProperty("user.dir")+".\\executables\\geckodriver.exe";
+		System.setProperty("webdriver.gecko.driver", driverpath);
+
+	}
+
+}

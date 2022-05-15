@@ -4,6 +4,7 @@ class variabl1
 	{
 		System.out.println("program stars");
 		int age ;
+		double salary
 		age = 30;
 		System.out.println("age");//age
 		System.out.println(age);//age =30

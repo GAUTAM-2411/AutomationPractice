@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SeleniumTesting/executabels&apos; to &apos;executables&apos;" description="Rename resource &apos;executabels&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="executabels" name="executables" stamp="1651286689038" updateReferences="true"/>
+</session>
