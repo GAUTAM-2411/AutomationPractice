@@ -1,0 +1,17 @@
+class variabl6 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("program starts");
+		//int num1 =20;
+		//int num2 =30;
+		//int result;
+		//int num1,num2,result;
+		//num1 =20;
+		//num2 =30
+		int num1 =50,num2 =40,result;
+		result =(num1+num2);
+		System.out.println("first number of num:\t"+num1+"second nuber udated :\t "+num2+"sum of two number:\t"+result);
+		System.out.println("program end");
+	}
+}

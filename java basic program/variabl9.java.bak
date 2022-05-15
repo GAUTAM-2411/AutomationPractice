@@ -1,0 +1,12 @@
+class variabl9 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("program starts");
+		int num1=4;
+		int num2=10,result;
+		result= num2/num1;
+	    System.out.println("division result: "+result);
+        System.out.println("program end");
+	}
+}

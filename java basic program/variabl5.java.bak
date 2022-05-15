@@ -1,0 +1,20 @@
+class variabl5 
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("program starts");
+		//int num1 =20;
+		//int num2 =30;
+		//int result;
+		//int num1,num2,result;
+		//num1 =20;
+		//num2 =30
+		int num1 =25,num2 =30,result;
+		result =num1+num2;
+		System.out.println("good morning everyone,\nwelcome to automation claSS");
+		System.out.println("1updated:\t"+num1);
+		System.out.println("second updated:\t"+num2);
+		System.out.println("sum of two updated:\t"num1+num2);
+		System.out.println("program end");
+	}
+}
